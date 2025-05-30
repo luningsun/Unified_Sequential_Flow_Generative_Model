@@ -1,6 +1,11 @@
 # flow_physics
 
-Unifying Predictions of Deterministic and Stochastic Physics in Mesh-reduced Space with Sequential Flow Generative Model
+The github is for the paper "Unifying Predictions of Deterministic and Stochastic Physics in Mesh-reduced Space with Sequential Flow Generative Model" in NeurIPS 2023
+
+## Citation
+**Paper Title: Unifying Predictions of Deterministic and Stochastic Physics in Mesh-reduced Space with Sequential Flow Generative Model**  
+Authors: Sun, Luning, Xu Han, Han Gao, Jian-Xun Wang, and Liping Liu.  
+[📄 Read Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bea78e2bb0abccc14404b24b90d9299f-Paper-Conference.pdf) | [📋 BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:N2wmcyYrJGIJ:scholar.google.com/&output=citation&scisdr=CgIMqdJAEICAhIro-98:AAZF9b8AAAAAaDnu49-YPXlbH3dFmFp3o7P2cnI&scisig=AAZF9b8AAAAAaDnu43VlJuguUfmOasCOznHn-0c&scisf=4&ct=citation&cd=-1&hl=en)
 
 ## 0. Environment Setup
 
